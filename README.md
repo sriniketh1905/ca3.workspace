@@ -1,0 +1,2 @@
+EVENT_MODE=practice
+
