@@ -1,3 +1,4 @@
+- [ ] Test the registration link
 # Event Preparation Checklist
 
 - [ ] Book a room
